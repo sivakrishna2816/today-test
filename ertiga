@@ -1,6 +1,6 @@
 public class ertiga {
     public static void main(String[] args) {
-        System.out.println("Welcome to aks");
+        System.out.println("Welcome to suziki");
           
     }
 }
